@@ -9,4 +9,6 @@ def findUser(email, hash):
   return None
 
 def query(sqlString):
-  return []
+  """Runs a MySQL Query across the database."""
+  # TODO: Define & Implement the query function
+  raise UserWarning("Not Implemented Yet!")
